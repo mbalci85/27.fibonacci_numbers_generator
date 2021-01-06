@@ -10,4 +10,4 @@ const fibonacciGenerator = (n) => {
 	return res;
 };
 
-fibonacciGenerator(5);
+console.log(fibonacciGenerator(10));
